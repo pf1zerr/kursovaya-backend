@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ac2oO1oBpOc=",
+  "dgSpecHash": "4UX87Szf7ec=",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexy\\OneDrive\\Documentos\\мать ебал\\backend\\Backend\\Backend.csproj",
+  "projectFilePath": "C:\\Users\\alexy\\OneDrive\\Documentos\\мать ебал\\backend\\backend\\Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexy\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\alexy\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\9.0.8\\microsoft.aspnetcore.authentication.jwtbearer.9.0.8.nupkg.sha512",

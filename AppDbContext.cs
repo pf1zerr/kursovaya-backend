@@ -27,7 +27,6 @@ public class AppDbContext : DbContext
             .HasIndex(o => new { o.UserId, o.MaterialId })
             .IsUnique();
 
-        // Seed admin user (password: admin123)
         modelBuilder.Entity<User>().HasData(new User
         {
             Id = 1,
@@ -38,7 +37,6 @@ public class AppDbContext : DbContext
             CreatedAt = new DateTime(2024, 1, 1)
         });
 
-        // Seed sample materials
         modelBuilder.Entity<Material>().HasData(
             new Material { Id = 1, Title = "Calculus Made Easy", Description = "Complete calculus notes from basics to advanced", Category = "Mathematics", Price = 0, FileUrl = "https://example.com/calculus.pdf", CreatedAt = new DateTime(2024, 1, 1) },
             new Material { Id = 2, Title = "Python for Beginners", Description = "Step-by-step Python programming guide", Category = "Programming", Price = 9.99m, FileUrl = "https://example.com/python.pdf", CreatedAt = new DateTime(2024, 1, 2) },

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexy\\OneDrive\\Documentos\\мать ебал\\backend\\Backend\\Backend.csproj": {}
+    "C:\\Users\\alexy\\OneDrive\\Documentos\\мать ебал\\backend\\backend\\Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexy\\OneDrive\\Documentos\\мать ебал\\backend\\Backend\\Backend.csproj": {
+    "C:\\Users\\alexy\\OneDrive\\Documentos\\мать ебал\\backend\\backend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexy\\OneDrive\\Documentos\\мать ебал\\backend\\Backend\\Backend.csproj",
+        "projectUniqueName": "C:\\Users\\alexy\\OneDrive\\Documentos\\мать ебал\\backend\\backend\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "C:\\Users\\alexy\\OneDrive\\Documentos\\мать ебал\\backend\\Backend\\Backend.csproj",
+        "projectPath": "C:\\Users\\alexy\\OneDrive\\Documentos\\мать ебал\\backend\\backend\\Backend.csproj",
         "packagesPath": "C:\\Users\\alexy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexy\\OneDrive\\Documentos\\мать ебал\\backend\\Backend\\obj\\",
+        "outputPath": "C:\\Users\\alexy\\OneDrive\\Documentos\\мать ебал\\backend\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\vs2\\NuGetPackages"

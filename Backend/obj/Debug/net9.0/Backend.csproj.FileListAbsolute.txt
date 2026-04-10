@@ -78,3 +78,4 @@ C:\Users\alexy\OneDrive\Documentos\мать ебал\backend\Backend\bin\Debug\n
 C:\Users\alexy\OneDrive\Documentos\мать ебал\backend\Backend\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\alexy\OneDrive\Documentos\мать ебал\backend\Backend\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\alexy\OneDrive\Documentos\мать ебал\backend\Backend\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\alexy\OneDrive\Documentos\мать ебал\backend\backend\obj\Debug\net9.0\Backend.sourcelink.json
